@@ -1,0 +1,7 @@
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\bin\Debug\Exercicio13Lista3.exe.config
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\bin\Debug\Exercicio13Lista3.exe
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\bin\Debug\Exercicio13Lista3.pdb
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\obj\Debug\Exercicio13Lista3.csproj.AssemblyReference.cache
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\obj\Debug\Exercicio13Lista3.csproj.CoreCompileInputs.cache
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\obj\Debug\Exercicio13Lista3.exe
+C:\Users\gdebr\source\repos\Exercicio13Lista3\Exercicio13Lista3\obj\Debug\Exercicio13Lista3.pdb
