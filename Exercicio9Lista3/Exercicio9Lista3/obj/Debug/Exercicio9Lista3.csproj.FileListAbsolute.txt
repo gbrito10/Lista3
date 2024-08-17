@@ -1,0 +1,7 @@
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\bin\Debug\Exercicio9Lista3.exe.config
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\bin\Debug\Exercicio9Lista3.exe
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\bin\Debug\Exercicio9Lista3.pdb
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\obj\Debug\Exercicio9Lista3.csproj.AssemblyReference.cache
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\obj\Debug\Exercicio9Lista3.csproj.CoreCompileInputs.cache
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\obj\Debug\Exercicio9Lista3.exe
+C:\Users\gdebr\source\repos\Exercicio9Lista3\Exercicio9Lista3\obj\Debug\Exercicio9Lista3.pdb
